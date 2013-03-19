@@ -1,0 +1,16 @@
+CHANGELOG
+Gemfile
+LICENSE.txt
+Manifest
+README.md
+Rakefile
+chartjs-rails.gemspec
+lib/chartjs-rails.rb
+lib/chartjs/rails.rb
+lib/chartjs/rails/engine.rb
+lib/chartjs/rails/install.rb
+lib/chartjs/rails/railtie.rb
+lib/generators/chartjs/install/install_generator.rb
+test/test_helper.rb
+vendor/assets/javascripts/chart.js
+vendor/assets/javascripts/chart.min.js
